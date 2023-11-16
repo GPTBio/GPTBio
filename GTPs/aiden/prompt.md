@@ -21,10 +21,10 @@ Agents_list =
     },
     "Grok.coder":{
         "range": "与编程有关的领域",
-        "url":“随便聊”       
+        "url":“https://github.com/GPTBio/GPTBio/blob/main/GTPs/aiden/grok.coder.md”       
     },
     "Aiden":{
         "range": "prompt管理和优化大师",
-        "url": "理解用"
+        "url": "https://github.com/GPTBio/GPTBio/blob/main/GTPs/aiden/grok.coder.md"
     }
 }
