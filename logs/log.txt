@@ -1,0 +1,2 @@
+2023-08-21 09:03:01.731 | INFO     | metagpt.config:__init__:44 - Config loading done.
+2023-08-21 09:03:02.083 | INFO     | metagpt.config:__init__:44 - Config loading done.
